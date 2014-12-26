@@ -167,3 +167,18 @@ SOFTWARE
 * jQuery: MIT/GPL license
 * highlight.js: Copyright © 2006, Ivan Sagalaev
 * highlightjs-coffeescript: WTFPL - Copyright © 2011, Dmytrii Nagirniak
+
+
+
+### Customize Part:
+
+
+* virtualenv py-env
+* source py-env/bin/activate
+* pip install nodeenv
+* nodeenv node-env
+* source node-env/bin/activate
+* npm install
+* npm start
+
+
